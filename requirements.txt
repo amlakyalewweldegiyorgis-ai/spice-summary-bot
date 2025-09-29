@@ -1,0 +1,10 @@
+python-telegram-bot==20.7
+google-generativeai
+python-dotenv
+newspaper4k
+lxml_html_clean
+httpx==0.25.2
+requests
+beautifulsoup4
+lxml
+nltk
